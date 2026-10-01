@@ -1,0 +1,100 @@
+{
+  "blockTime": 1790770770,
+  "meta": {
+    "computeUnitsConsumed": 450,
+    "costUnits": 1784,
+    "err": null,
+    "fee": 5495,
+    "innerInstructions": [],
+    "logMessages": [
+      "Program 11111111111111111111111111111111 invoke [1]",
+      "Program 11111111111111111111111111111111 success",
+      "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+      "Program ComputeBudget111111111111111111111111111111 success",
+      "Program ComputeBudget111111111111111111111111111111 invoke [1]",
+      "Program ComputeBudget111111111111111111111111111111 success"
+    ],
+    "postBalances": [
+      5965599409455237,
+      1000000000,
+      1,
+      1
+    ],
+    "postTokenBalances": [],
+    "preBalances": [
+      5965600409460732,
+      0,
+      1,
+      1
+    ],
+    "preTokenBalances": [],
+    "rewards": [],
+    "status": {
+      "Ok": null
+    }
+  },
+  "slot": 505901365,
+  "transaction": {
+    "message": {
+      "accountKeys": [
+        {
+          "pubkey": "dev2JBjyB5CshoGsiJCwzdmJYiEUwAXMdqDR7txoFBJ",
+          "signer": true,
+          "source": "transaction",
+          "writable": true
+        },
+        {
+          "pubkey": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+          "signer": false,
+          "source": "transaction",
+          "writable": true
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "source": "transaction",
+          "writable": false
+        },
+        {
+          "pubkey": "ComputeBudget111111111111111111111111111111",
+          "signer": false,
+          "source": "transaction",
+          "writable": false
+        }
+      ],
+      "instructions": [
+        {
+          "parsed": {
+            "info": {
+              "destination": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+              "lamports": 1000000000,
+              "source": "dev2JBjyB5CshoGsiJCwzdmJYiEUwAXMdqDR7txoFBJ"
+            },
+            "type": "transfer"
+          },
+          "program": "system",
+          "programId": "11111111111111111111111111111111",
+          "stackHeight": 1
+        },
+        {
+          "accounts": [],
+          "data": "3QCwqmHZ4mdq",
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "stackHeight": 1
+        },
+        {
+          "accounts": [],
+          "data": "LCQ37u",
+          "programId": "ComputeBudget111111111111111111111111111111",
+          "stackHeight": 1
+        }
+      ],
+      "recentBlockhash": "2wCRBPeLsH343gN9LmMZF89CftY54aH9jUZoJ1XPEyqg"
+    },
+    "signatures": [
+      "4VrDEjvhtRqD9C6txu5pPxcS2xn1A4HvBKjRu3oLy3wJV3VGhsYUU5b6R5h8togZnvqZTfQAQmZ3Lto6pCm1jgQA"
+    ]
+  },
+  "transactionIndex": 13,
+  "version": "legacy"
+}

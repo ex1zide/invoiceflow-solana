@@ -1,0 +1,10 @@
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 0.04s
+     Running unittests src\main.rs (assignments\week3-cli\target\debug\deps\solana_account_cli-f7e5981654d3e271.exe)
+
+running 3 tests
+test tests::decimal_precision_and_u64_boundary ... ok
+test tests::rejected_transfer_preserves_both_balances ... ok
+test tests::transfer_changes_balances_and_accounts_for_fee ... ok
+
+test result: ok. 3 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+

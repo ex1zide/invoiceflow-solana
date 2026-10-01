@@ -1,0 +1,45 @@
+{
+  "cluster": "devnet",
+  "rpc": "https://api.devnet.solana.com",
+  "createdAt": "2026-09-30T12:17:55.835Z",
+  "sender": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+  "recipient": "CySviauxxDzwVKTL2auhgo4XuJLt3w7VfxKawvAQYB1N",
+  "transactions": [
+    {
+      "label": "transfer",
+      "signature": "4tr2LyQi2eUEFnr7NRH6adyichZEm5NrKNSzrzdRCNyaUJrjzPBZHPdMxUqpJEnvxNykCpvhTq41cMCtRSAPPDCj",
+      "explorer": "https://explorer.solana.com/tx/4tr2LyQi2eUEFnr7NRH6adyichZEm5NrKNSzrzdRCNyaUJrjzPBZHPdMxUqpJEnvxNykCpvhTq41cMCtRSAPPDCj?cluster=devnet",
+      "slot": 505901460,
+      "blockTime": 1790770793,
+      "fee": 5000,
+      "error": null,
+      "confirmationStatus": "finalized"
+    },
+    {
+      "label": "transfer-memo",
+      "signature": "2D8JeEBRGvkSRqr8KLL4ji6TidRkpYtkUbQ6zT4CaeGZotwpuqD6xnZXDi1Cpt8vUoWF148uRDuN7RKSX6MxjX1C",
+      "explorer": "https://explorer.solana.com/tx/2D8JeEBRGvkSRqr8KLL4ji6TidRkpYtkUbQ6zT4CaeGZotwpuqD6xnZXDi1Cpt8vUoWF148uRDuN7RKSX6MxjX1C?cluster=devnet",
+      "slot": 505901468,
+      "blockTime": 1790770795,
+      "fee": 5000,
+      "error": null,
+      "confirmationStatus": "finalized"
+    },
+    {
+      "label": "airdrop",
+      "signature": "4VrDEjvhtRqD9C6txu5pPxcS2xn1A4HvBKjRu3oLy3wJV3VGhsYUU5b6R5h8togZnvqZTfQAQmZ3Lto6pCm1jgQA",
+      "explorer": "https://explorer.solana.com/tx/4VrDEjvhtRqD9C6txu5pPxcS2xn1A4HvBKjRu3oLy3wJV3VGhsYUU5b6R5h8togZnvqZTfQAQmZ3Lto6pCm1jgQA?cluster=devnet",
+      "slot": 505901365,
+      "blockTime": 1790770770,
+      "fee": 5495,
+      "error": null,
+      "confirmationStatus": "finalized"
+    }
+  ],
+  "balanceLamports": 996990000,
+  "transferSignature": "4tr2LyQi2eUEFnr7NRH6adyichZEm5NrKNSzrzdRCNyaUJrjzPBZHPdMxUqpJEnvxNykCpvhTq41cMCtRSAPPDCj",
+  "transfer-memoSignature": "2D8JeEBRGvkSRqr8KLL4ji6TidRkpYtkUbQ6zT4CaeGZotwpuqD6xnZXDi1Cpt8vUoWF148uRDuN7RKSX6MxjX1C",
+  "recipientBalanceLamports": 3000000,
+  "airdropSignature": "4VrDEjvhtRqD9C6txu5pPxcS2xn1A4HvBKjRu3oLy3wJV3VGhsYUU5b6R5h8togZnvqZTfQAQmZ3Lto6pCm1jgQA",
+  "verifiedAt": "2026-09-30T12:21:06.975Z"
+}

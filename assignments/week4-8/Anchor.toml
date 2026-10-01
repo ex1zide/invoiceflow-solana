@@ -1,0 +1,16 @@
+[toolchain]
+anchor_version = "0.32.2"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+alisher_profile = "5EHY5pYduZMone4MRBy45Lkrrofupq1G3R1ADV9w7qXU"
+
+[provider]
+cluster = "Devnet"
+wallet = "../../.private/devnet-sender.json"
+
+[scripts]
+demo = "node client/demo.mjs"

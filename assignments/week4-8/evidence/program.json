@@ -1,0 +1,22 @@
+{
+  "cluster": "devnet",
+  "programId": "5EHY5pYduZMone4MRBy45Lkrrofupq1G3R1ADV9w7qXU",
+  "owner": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+  "counterPda": "DN31y2A2AkG1rL1RZsH6KDrp6e2N5Gd8ndG86Jw3RMms",
+  "profilePda": "2qQzUeM2PmuYoA6zpqy2BtSfj2LTQky4yoMxsKiRESzC",
+  "programExplorer": "https://explorer.solana.com/address/5EHY5pYduZMone4MRBy45Lkrrofupq1G3R1ADV9w7qXU?cluster=devnet",
+  "helloSignature": "2iyT8teoGstZxxq7jNk2QYLCuVPFGc8pNSqU1CkvgWXNCEL7y2fNgHSHV2fXNXDmojdL88dgjETchxjnvnVo1Kni",
+  "initializeCounterSignature": "5foMaFeV6JGpPpwj8aF8NYdrdGoRbRgGpkszrencC9G5ZiyToC9rbYtGcvh4zhaiSJB4K7ovgw8tXRgSK6Q3bTdj",
+  "incrementSignatures": [
+    "5GVUhtWMoBjvuSQhXj2XfPif4WhZ9fP7RxBqit6YbgN6qAu9uhp1FXdpgtAiC4PEBGwUw99NGZkV48LGf5jfjDvY",
+    "4jrsRWykVvGx19oCGD1DgHNuRH3pvdK2vsx2REctRys38X9CKH4s4AJ4WpcvPCEnVBvQZ8ncwzMmH2VW2qL5Sqjv"
+  ],
+  "createProfileSignature": "3zg1mFQKa7r8b5Amqqd3dyXDg3TyPLSvDY8oDBrQCJgaTXVE9zoYpCQ3bjjZA6gBrtWLL6sgq2qiwqW6ZvVBfuwd",
+  "updateProfileSignature": "2QRRskEp97HzNMmYSujvDKsceFfbFBGL6Tw5LMa86jFVS4vaBSuHypoGMpmxmA87TYhWtL1VkegnAUGoJwb8ZFLF",
+  "counterValue": "2",
+  "profile": {
+    "name": "Бимано Алишер",
+    "bio": "Мой учебный профиль в Devnet. Создал счётчик, PDA и токен ALPR."
+  },
+  "verifiedAt": "2026-10-01T14:24:29.302Z"
+}

@@ -1,0 +1,10 @@
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.09s
+     Running `assignments\week3-cli\target\debug\solana-account-cli.exe demo`
+LOCAL EDUCATIONAL MODEL. No network transaction. Balances reset each run.
+Before:
+alice: 1.000000000 SOL (1000000000 lamports)
+bob: 0.000000000 SOL (0 lamports)
+Transfer alice -> bob: 0.001000000 SOL (1000000 lamports); model fee 5000 lamports
+After:
+alice: 0.998995000 SOL (998995000 lamports)
+bob: 0.001000000 SOL (1000000 lamports)

@@ -1,0 +1,7 @@
+{
+  "cluster": "devnet",
+  "programId": "5EHY5pYduZMone4MRBy45Lkrrofupq1G3R1ADV9w7qXU",
+  "firstDeploySignature": "5XTyZdDLjetFquqZRA4eL6DCcf1pRkdtstHsLGVYxrSwna6YvKxPUFZQFviJ4KjztVcZ4fP1vD7d3pEPG6yq9ujs",
+  "anchorUpgradeSignature": "3VPVBCF3M6NtTkHNZLBg5Arnoo2Ba3bXWg6aHGPDkBJG89WTzyBBf2kFdjgzNMCf9cRmuCCs1hrHm1mdUBPheUn3",
+  "programExplorer": "https://explorer.solana.com/address/5EHY5pYduZMone4MRBy45Lkrrofupq1G3R1ADV9w7qXU?cluster=devnet"
+}

@@ -1,0 +1,14 @@
+.private/
+node_modules/
+target/
+.local-tools/
+**/dist/
+.qa-final/
+.qa-personal/
+deliverables/
+*.zip
+*.pdf
+qa-*.png
+final-check.png
+build_assignment.py
+Первые_3_недели_Solana*.docx

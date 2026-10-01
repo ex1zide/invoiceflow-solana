@@ -1,0 +1,4 @@
+> solana-account-cli transfer alice bob abc
+
+Error: Use a nonnegative decimal with at most 9 fractional digits.
+Exit code: 1

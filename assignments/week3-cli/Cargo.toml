@@ -1,0 +1,7 @@
+[package]
+name = "solana-account-cli"
+version = "0.1.0"
+edition = "2021"
+description = "Week 3: a Rust CLI demonstrating Solana-style accounts and integer balances"
+
+[dependencies]

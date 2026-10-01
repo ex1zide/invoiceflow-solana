@@ -1,0 +1,95 @@
+{
+  "blockTime": 1790770795,
+  "meta": {
+    "computeUnitsConsumed": 31818,
+    "costUnits": 33176,
+    "err": null,
+    "fee": 5000,
+    "innerInstructions": [],
+    "logMessages": [
+      "Program 11111111111111111111111111111111 invoke [1]",
+      "Program 11111111111111111111111111111111 success",
+      "Program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr invoke [1]",
+      "Program log: Signed by GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+      "Program log: Memo (len 46): \"Solana course weeks 1-3: transaction detective\"",
+      "Program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr consumed 31668 of 202850 compute units",
+      "Program MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr success"
+    ],
+    "postBalances": [
+      996990000,
+      3000000,
+      1,
+      41509609334
+    ],
+    "postTokenBalances": [],
+    "preBalances": [
+      998995000,
+      1000000,
+      1,
+      41509609334
+    ],
+    "preTokenBalances": [],
+    "rewards": [],
+    "status": {
+      "Ok": null
+    }
+  },
+  "slot": 505901468,
+  "transaction": {
+    "message": {
+      "accountKeys": [
+        {
+          "pubkey": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+          "signer": true,
+          "source": "transaction",
+          "writable": true
+        },
+        {
+          "pubkey": "CySviauxxDzwVKTL2auhgo4XuJLt3w7VfxKawvAQYB1N",
+          "signer": false,
+          "source": "transaction",
+          "writable": true
+        },
+        {
+          "pubkey": "11111111111111111111111111111111",
+          "signer": false,
+          "source": "transaction",
+          "writable": false
+        },
+        {
+          "pubkey": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+          "signer": false,
+          "source": "transaction",
+          "writable": false
+        }
+      ],
+      "instructions": [
+        {
+          "parsed": {
+            "info": {
+              "destination": "CySviauxxDzwVKTL2auhgo4XuJLt3w7VfxKawvAQYB1N",
+              "lamports": 2000000,
+              "source": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67"
+            },
+            "type": "transfer"
+          },
+          "program": "system",
+          "programId": "11111111111111111111111111111111",
+          "stackHeight": 1
+        },
+        {
+          "parsed": "Solana course weeks 1-3: transaction detective",
+          "program": "spl-memo",
+          "programId": "MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr",
+          "stackHeight": 1
+        }
+      ],
+      "recentBlockhash": "SSVRECaxnNqwimTGGhrPh5cyiEqam3j8UJhTAZUinKV"
+    },
+    "signatures": [
+      "2D8JeEBRGvkSRqr8KLL4ji6TidRkpYtkUbQ6zT4CaeGZotwpuqD6xnZXDi1Cpt8vUoWF148uRDuN7RKSX6MxjX1C"
+    ]
+  },
+  "transactionIndex": 39,
+  "version": "legacy"
+}

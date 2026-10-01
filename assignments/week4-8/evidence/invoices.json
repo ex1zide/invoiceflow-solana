@@ -1,0 +1,28 @@
+{
+  "cluster": "devnet",
+  "programId": "5EHY5pYduZMone4MRBy45Lkrrofupq1G3R1ADV9w7qXU",
+  "mint": "CiLa9Mxo4pTNoRV2qwdgcZZVWBjAdnanEyqn3oYFwCUc",
+  "invoices": [
+    {
+      "id": 20261001,
+      "title": "Дизайн лендинга",
+      "amountAlpr": 5,
+      "address": "4PH11X1rdkwqsmKKyV8dc7ATAM9YiGn9M7CXomB8WDVn",
+      "merchant": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+      "customer": "CySviauxxDzwVKTL2auhgo4XuJLt3w7VfxKawvAQYB1N",
+      "createSignature": "EVWahNTdmC7uHCofk5CfchndhkG7uLGdTnAzkcMF2tHzdpzehKwRnJEq1UtrVJ7E1Pn84qk6SowKBmTKMT2567E",
+      "paySignature": "L6BTirqHmcs8dBqwzRrArw6aiSfBAgYzZzqDzU16KE3GRUoJqxoRJdyHskoQeXLNz51e6AFimGuRJFsmtNHuFmM",
+      "status": "paid"
+    },
+    {
+      "id": 20261002,
+      "title": "Логотип для проекта",
+      "amountAlpr": 8,
+      "address": "DFGJFvyRhgMBX5ezN6GMWg4oVU7PdpZZSUwizksgdkSy",
+      "merchant": "GthSheRw2tjCYCzq7sft6mZxZVDh8qN7JfvmGuce6V67",
+      "customer": "CySviauxxDzwVKTL2auhgo4XuJLt3w7VfxKawvAQYB1N",
+      "createSignature": "3gPtp3uWKafesomubkK5AgZQRBTYK5aKeqTQPxyurfZuqGuaw3uszcNrAhUj3DH2TPWBCHn7tTr4vBjb9sseuviY",
+      "status": "pending"
+    }
+  ]
+}
